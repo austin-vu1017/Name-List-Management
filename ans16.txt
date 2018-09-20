@@ -1,0 +1,9 @@
+{id:1234567,first:Mary,last:Green,DOB:1996-10-03,GPA:4.0}
+{id:1234587,first:Katy,last:Green,DOB:1995-08-18,GPA:4.0}
+{id:1234585,first:April,last:Hertz,DOB:1999-01-03,GPA:3.7}
+{id:1234588,first:Samara,last:Mays,DOB:1994-02-18,GPA:3.3}
+{id:1654238,first:Nick,last:Park,DOB:1995-08-18,GPA:4.0}
+{id:1234569,first:Ken,last:Smith,DOB:1996-01-03,GPA:3.7}
+{id:1482212,first:Parker,last:Smith,DOB:1996-08-18,GPA:4.0}
+{id:1234568,first:Peter,last:White,DOB:1997-05-22,GPA:3.8}
+{id:1235555,first:Steven,last:Wright,DOB:1993-01-22,GPA:3.1}

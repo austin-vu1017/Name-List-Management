@@ -1,0 +1,35 @@
+{id:4553189,first:Evelyn,last:Hamilton,DOB:1991-10-02,GPA:3.9}
+
+{id:4821975,first:Elizabeth,last:Maynard,DOB:1999-10-15,GPA:2.8}
+
+{id:4805497,first:Meredith,last:Smith,DOB:1996-10-03,GPA:3.6}
+
+{id:1563158,first:Klem,last:Prescott,DOB:1997-01-03,GPA:1.2}
+
+{id:5561932,first:Rem,last:Roosevelt,DOB:1996-10-03,GPA:2.5}
+
+{id:9584718,first:Mary_Anna,last:Green,DOB:2000-10-03,GPA:3.0}
+
+{id:5486486,first:Mary_Anne,last:Green,DOB:1996-10-03,GPA:4.0}
+
+{id:4838188,first:Jim,last:Grese,DOB:2015-08-03,GPA:3.5}
+
+{id:3838188,first:Timothy,last:Greene,DOB:1993-10-03,GPA:3.5}
+
+{id:3838288,first:Timothy,last:Greene,DOB:1993-10-03,GPA:3.5}
+
+delete 4553189
+
+{id:4553189,first:Evelyn,last:Hamilton,DOB:1997-03-08,GPA:3.9}
+
+delete 1242538
+
+delete 4838188
+
+{id:1838188,first:Mary,last:Houghes,DOB:1996-07-13,GPA:3.5}
+
+{id:4838188,first:Edith,last:He,DOB:2006-10-31,GPA:3.5}
+
+{id:4553289,first:Evelyn,last:Hamilton,DOB:1986-10-01,GPA:3.9}
+
+{id:1838189,first:Mary,last:Hedges,DOB:1996-07-13,GPA:3.5}
